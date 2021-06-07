@@ -26,9 +26,9 @@ interests:
 education:
   courses:
   - course: PhD in Theoretical Astrophysics
-    institution: School of Physics and Astronomy, University of Leicester
-    supervisors: Prof. Sergei Nayakshin & Dr. Giovanni Rosotti
-    year: 2021.09 - 2025.09 (expected)
+    institution: School of Physics and Astronomy, University of Leicester 
+    supervisors: Prof. Sergei Nayakshin & Dr. Giovanni Rosotti 
+    year: 2021.09 - 2025.09 (expected) 
   - course: BSc in Physics
     institution: Department of Physics, Northwest University
     year: 2015.09 - 2019.06
