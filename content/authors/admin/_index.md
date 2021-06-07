@@ -17,13 +17,13 @@ organizations:
 bio: My research interests include accretion discs in protoplanetary and supermassive black hole environment.
 
 # Interests to show in About widget
-Research Interests:
+interests:
 - Protoplanetary Disks
 - AGN Feedback
 - Numerical Astrophysics
 
 # Education to show in About widget
-Education:
+education:
   courses:
   - course: PhD in Theoretical Astrophysics
     institution: School of Physics and Astronomy, University of Leicester
