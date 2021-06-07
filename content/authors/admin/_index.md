@@ -10,7 +10,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: School of Physics and Astronomy, University of Leicester (莱斯特大学物理与天文学院)
+- name: University of Leicester (莱斯特大学)
   url: https://le.ac.uk/physics
 
 # Short bio (displayed in user profile at end of posts)
