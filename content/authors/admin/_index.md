@@ -1,39 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yinhao Wu (吴寅昊)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: School of Physics and Astronomy, University of Leicester (莱斯特大学物理与天文学院)
+  url: https://le.ac.uk/physics
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include accretion discs in protoplanetary and supermassive black hole environment.
 
 # Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+Research Interests:
+- Protoplanetary Disks
+- AGN Feedback
+- Numerical Astrophysics
 
 # Education to show in About widget
-education:
+Education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Theoretical Astrophysics
+    institution: School of Physics and Astronomy, University of Leicester
+    supervisors: Prof. Sergei Nayakshin & Dr. Giovanni Rosotti
+    year: 2021.09 - 2025.09 (expected)
+  - course: BSc in Physics
+    institution: Department of Physics, Northwest University
+    year: 2015.09 - 2019.06
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
